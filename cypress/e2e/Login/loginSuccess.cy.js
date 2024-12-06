@@ -1,5 +1,9 @@
 describe('Login ServeRest', () => {
-  it('User Login Successfully', () => {
+  it('Login successfully with valid credentials', () => {
     cy.loginSuccess()
+  })
+
+  it('Invalid login', () => {
+    cy.loginInvalid()
   })
 })
