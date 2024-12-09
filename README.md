@@ -34,4 +34,3 @@
    ```
 
 5. **Result of all tests**
-   ![alt text](image.png)
