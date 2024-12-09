@@ -34,3 +34,4 @@
    ```
 
 5. **Result of all tests**
+![image](https://github.com/user-attachments/assets/46057348-c662-4280-8592-d7d60104aebb)
