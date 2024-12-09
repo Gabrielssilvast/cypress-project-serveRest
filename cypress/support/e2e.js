@@ -1,4 +1,4 @@
-import { faker } from '@faker-js/faker'
+import 'cypress-plugin-api'
 import './commands'
 
 let userData
